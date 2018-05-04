@@ -9,11 +9,14 @@ face recognition
 #### Environment
 
 #### Contents
-[Install OS](#INSTALL)
-[Configuration](#CONFIGURATION)
-- [Rasberry-Pi](#RASP)
-- [Server PC](#SERVER)
-[Creating Telegram Bot](#TELEGRAM)
+- [Install OS](#INSTALL)
+
+- [Configuration](#CONFIGURATION)
+  - [Rasberry-Pi](#RASP)
+  - [Server PC](#SERVER)
+
+- [Creating Telegram Bot](#TELEGRAM)
+
 ## Install OS <a id="INSTALL"></a>
 ## Configuration <a id="CONFIGURATION"></a>
  #### Rasberry - Pi <a id="RASP"></a>
