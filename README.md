@@ -9,11 +9,11 @@ face recognition
 #### Environment
 Rasberry-Pi 3  
 OS : Ubuntu Mate 16.04 LTS  
-Open CV  
+Requirements : OpenCV 3.1.0, Python 3.5  
 
 PC  
 OS : Ubuntu Desktop 16.04 LTS  
-Open CV, Openface API, Dlib, Torch
+Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Python 3.5
   
 #### Contents
 - [OS Installation](#INSTALL)
