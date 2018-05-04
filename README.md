@@ -1,13 +1,11 @@
 # Automatic door open system using face-recognition
-
-### Developer
-KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
+By KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
  
-### Purpose of development
+#### Purpose of development
+face recognition
+#### Development Environment
 
-### Development Environment
+#### Nationality
 
-### Nationality
-
-### Contents
+#### Contents
 
