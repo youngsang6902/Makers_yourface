@@ -10,6 +10,6 @@ face recognition
 
 #### Contents
 []
- - [Install OS](#Install OS)
+ - [Install OS](#INSTALL)
 
-## Install OS
+## Install OS <a id="INSTALL"></a>
