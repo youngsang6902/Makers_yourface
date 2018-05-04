@@ -1,6 +1,6 @@
 # Automatic door open system using face-recognition
 
-_y KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon_
+_by KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon_
 * * *
 #### Purpose
 
