@@ -68,10 +68,11 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ mkdir build
  $ cd build
  
- Its' not finishe.
+ Its' not finished.
  ```
  3. Openface
  ```
+ 
  ```
  4. Torch
  ```
