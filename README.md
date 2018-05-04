@@ -1,9 +1,8 @@
 # Automatic door open system using face-recognition
-
 _by KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon_
 * * *
-#### Purpose
 
+#### Purpose
 face recognition
 
 #### Environment
@@ -36,7 +35,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 ## Configuration
 
  <a id="RASP"></a>
- -###Rasberry - Pi 
+ - ###Rasberry - Pi 
  1. Basic
  
  2. OpenCV
