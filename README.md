@@ -10,7 +10,7 @@ face recognition
 Rasberry-Pi3  
 OS : Ubuntu Mate 16.04 LTS  
   
-PC  
+PC  
 OS : Ubuntu Desktop 16.04 LTS
   
 #### Contents
