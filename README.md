@@ -6,7 +6,7 @@ _by KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon_
 face recognition
 
 #### Environment
-Rasberry-Pi 3  
+Rasberry Pi 3  
 OS : Ubuntu Mate 16.04 LTS  
 Requirements : OpenCV 3.1.0, Python 3.5  
 
@@ -35,7 +35,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 ## Configuration
 
  <a id="RASP"></a>
- - ### Rasberry-Pi 
+ - ### Rasberry Pi 
  1. Basic
  ```
  ```
