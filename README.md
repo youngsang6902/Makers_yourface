@@ -70,16 +70,20 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  
  Its' not finished.
  ```
- 3. Openface
+ 
+ 3. Dlib
+ ```
  ```
  
- ```
  4. Torch
  ```
  ```
- 5. Dlib
+ 
+ 5. Openface
  ```
+ 
  ```
+ 
  6. Telepot
  ```
  ```
