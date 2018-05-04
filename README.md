@@ -47,6 +47,10 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  - ### Server PC
  1. Basic
  ```
+ $ sudo apt-get update
+ $ sudo apt-get upgrade
+ 
+ $ sudo apt-get install build-essential cmake
  ```
  2. OpenCV
  ```
