@@ -25,6 +25,6 @@ face recognition
 ## Configuration <a id="CONFIGURATION"></a>
  #### Rasberry - Pi <a id="RASP"></a>
  #### Server PC <a id="SERVER"></a>
-## Creating Telegram Bot <a id="TELEGRAM"></a>
+## Creating a Telegram Bot <a id="TELEGRAM"></a>
 ## Source Code <a id="CODE"></a>
 ## Execution <a id="EXECUTION"></a>
