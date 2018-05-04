@@ -9,17 +9,17 @@ face recognition
 #### Environment
 
 #### Contents
-1. [OS Installation](#INSTALL)
+- [OS Installation](#INSTALL)
 
-2. [Configuration](#CONFIGURATION)
+- [Configuration](#CONFIGURATION)
   - [Rasberry-Pi](#RASP)
   - [Server PC](#SERVER)
 
-3. [Creating Telegram Bot](#TELEGRAM)
+- [Creating Telegram Bot](#TELEGRAM)
 
-4. [Source Code](#CODE)
+- [Source Code](#CODE)
 
-5. [Execution](#EXECUTION)
+- [Execution](#EXECUTION)
 
 ## OS Installation <a id="INSTALL"></a>
 ## Configuration <a id="CONFIGURATION"></a>
