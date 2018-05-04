@@ -32,7 +32,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 > coming soon!
 
 ## Configuration <a id="CONFIGURATION"></a>
- - #### Rasberry - Pi <a id="RASP"></a>
+ - ### Rasberry - Pi <a id="RASP"></a>
  1. ddd
 ```
  $ sudo apt-get update && sudo apt-get upgrade
