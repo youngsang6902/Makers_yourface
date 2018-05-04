@@ -9,7 +9,7 @@ face recognition
 #### Environment
 
 #### Contents
-1. [Install OS](#INSTALL)
+1. [OS Installation](#INSTALL)
 
 2. [Configuration](#CONFIGURATION)
   - [Rasberry-Pi](#RASP)
@@ -21,7 +21,7 @@ face recognition
 
 5. [Execution](#EXECUTION)
 
-## Install OS <a id="INSTALL"></a>
+## OS Installation <a id="INSTALL"></a>
 ## Configuration <a id="CONFIGURATION"></a>
  #### Rasberry - Pi <a id="RASP"></a>
  #### Server PC <a id="SERVER"></a>
