@@ -40,3 +40,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 > coming soon!
 ## Execution <a id="EXECUTION"></a>
 > coming soon!
+
+- [os]
+
+## os
