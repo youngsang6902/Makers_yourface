@@ -7,11 +7,11 @@ By KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
 face recognition
 
 #### Environment
-Rasberry-Pi  
-  OS : Ubuntu Mate 16.04 LTS  
+Rasberry-Pi3  
+OS : Ubuntu Mate 16.04 LTS  
   
-PC  
-  Ubuntu Desktop 16.04 LTS  
+PC  
+OS : Ubuntu Desktop 16.04 LTS
   
 #### Contents
 - [OS Installation](#INSTALL)
