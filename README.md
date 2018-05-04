@@ -28,7 +28,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 
 - [Execution](#EXECUTION)
 
-## OS Installation <a id="INSTALL"></a>
+<a id="INSTALL"></a> ## OS Installation 
 > coming soon!
 
 ## Configuration <a id="CONFIGURATION"></a>
