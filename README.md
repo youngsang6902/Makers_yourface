@@ -16,7 +16,7 @@ OS : Ubuntu Desktop 16.04 LTS
 Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
   
 #### Contents
-- [OS Installation](link "# OS Installation")
+- [OS Installation](#INSTALL)
 
 - [Configuration](#CONFIGURATION)
   - [Rasberry-Pi](#RASP)
@@ -32,16 +32,27 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 ## OS Installation 
 > coming soon!
 
-## Configuration <a id="CONFIGURATION"></a>
- - ### Rasberry - Pi <a id="RASP"></a>
+<a id="CONFIGURATION"></a>
+## Configuration
+
+ <a id="RASP"></a>
+ - ### Rasberry - Pi 
  1. ddd
 ```
  $ sudo apt-get update && sudo apt-get upgrade
 ```
- - #### Server PC <a id="SERVER"></a>
-## Creating a Telegram Bot <a id="TELEGRAM"></a>
+
+<a id="SERVER"></a>
+ - #### Server PC 
+
+<a id="TELEGRAM"></a>
+## Creating a Telegram Bot 
 > coming soon!
-## Source Code <a id="CODE"></a>
+
+<a id="CODE"></a>
+## Source Code 
 > coming soon!
-## Execution <a id="EXECUTION"></a>
+
+<a id="EXECUTION"></a>
+## Execution
 > coming soon!
