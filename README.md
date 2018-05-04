@@ -13,7 +13,7 @@ Requirements : OpenCV 3.1.0, Python 3.5
 
 PC  
 OS : Ubuntu Desktop 16.04 LTS  
-Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Python 3.5
+Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
   
 #### Contents
 - [OS Installation](#INSTALL)
