@@ -29,9 +29,14 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Python 3.5
 - [Execution](#EXECUTION)
 
 ## OS Installation <a id="INSTALL"></a>
+> coming soon!
+
 ## Configuration <a id="CONFIGURATION"></a>
  #### Rasberry - Pi <a id="RASP"></a>
  #### Server PC <a id="SERVER"></a>
 ## Creating a Telegram Bot <a id="TELEGRAM"></a>
+> coming soon!
 ## Source Code <a id="CODE"></a>
+> coming soon!
 ## Execution <a id="EXECUTION"></a>
+> coming soon!
