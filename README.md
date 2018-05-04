@@ -38,6 +38,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  <a id="RASP"></a>
  - ### Rasberry - Pi 
  1. Basic
+ 
  2. OpenCV
  ```
  $ sudo apt-get update && sudo apt-get upgrade
