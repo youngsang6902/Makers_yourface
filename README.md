@@ -2,13 +2,13 @@
 
 By KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
  
-#### Purpose of development
+#### Purpose
 
 face recognition
 
-#### Development Environment
-
-#### Nationality
+#### Environment
 
 #### Contents
+- Install OS(#Install OS)
 
+## Install OS
