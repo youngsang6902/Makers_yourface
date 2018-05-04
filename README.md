@@ -2,13 +2,13 @@
 
 By KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
 * * *
-### Purpose
+#### Purpose
 
 face recognition
 
 #### Environment
 Rasberry-Pi3  
-OS : Ubuntu Mate 16.04 LTS  
+OS : Ubuntu Mate 16.04 LTS  
 Open CV  
 
 PC  
