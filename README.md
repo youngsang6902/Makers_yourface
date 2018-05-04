@@ -81,7 +81,6 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  
  5. Openface
  ```
- 
  ```
  
  6. Telepot
