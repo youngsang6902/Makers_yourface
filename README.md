@@ -33,10 +33,11 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 
 ## Configuration <a id="CONFIGURATION"></a>
  - #### Rasberry - Pi <a id="RASP"></a>
+ 1. ddd
 ```
  $ sudo apt-get update && sudo apt-get upgrade
 ```
- #### Server PC <a id="SERVER"></a>
+ - #### Server PC <a id="SERVER"></a>
 ## Creating a Telegram Bot <a id="TELEGRAM"></a>
 > coming soon!
 ## Source Code <a id="CODE"></a>
