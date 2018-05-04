@@ -1,4 +1,12 @@
-# Makers_yourface
 # Automatic door open system using face-recognition
-### Development
-### Developer : 김현희, 윤용상, 
+### Purpose of development
+
+### Development Environment
+
+### Developer 
+####김현희, 윤용상, 전승훈 
+
+### Nationality
+
+### Contents
+
