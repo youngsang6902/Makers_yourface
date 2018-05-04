@@ -35,7 +35,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 ## Configuration
 
  <a id="RASP"></a>
- >- ### Rasberry Pi 
+ - ### Rasberry Pi 
  >1. Basic
  >```
  >```
@@ -44,7 +44,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  >```
 
 <a id="SERVER"></a>
- >- ### Server PC
+ - ### Server PC
  >1. Basic
  >```
  >$ sudo apt-get update
