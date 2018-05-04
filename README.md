@@ -16,7 +16,7 @@ OS : Ubuntu Desktop 16.04 LTS
 Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
   
 #### Contents
-- [OS Installation](link "OS Installation")
+- [OS Installation](link "# OS Installation")
 
 - [Configuration](#CONFIGURATION)
   - [Rasberry-Pi](#RASP)
