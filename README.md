@@ -7,13 +7,13 @@ By KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
 face recognition
 
 #### Environment
-Rasberry-Pi3  
+Rasberry-Pi 3  
 OS : Ubuntu Mate 16.04 LTS  
 Open CV  
 
 PC  
 OS : Ubuntu Desktop 16.04 LTS  
-Open CV, Openface API, dlib, torch
+Open CV, Openface API, Dlib, Torch
   
 #### Contents
 - [OS Installation](#INSTALL)
