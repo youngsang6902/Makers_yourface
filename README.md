@@ -17,9 +17,14 @@ face recognition
 
 3. [Creating Telegram Bot](#TELEGRAM)
 
-4. [Code]
+4. [Source Code](#CODE)
+
+5. [Execution](#EXECUTION)
+
 ## Install OS <a id="INSTALL"></a>
 ## Configuration <a id="CONFIGURATION"></a>
  #### Rasberry - Pi <a id="RASP"></a>
  #### Server PC <a id="SERVER"></a>
 ## Creating Telegram Bot <a id="TELEGRAM"></a>
+## Source Code <a id="CODE"></a>
+## Execution <a id="EXECUTION"></a>
