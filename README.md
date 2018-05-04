@@ -7,8 +7,8 @@
 ### Development Environment
 
 ### Developer 
-### KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
-####김현희, 윤용상, 전승훈 
+##### KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon
+#### 김현희, 윤용상, 전승훈 
 
 ### Nationality
 
