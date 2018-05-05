@@ -2,8 +2,9 @@
 _by KIM Hyun-hee, YOON Young-sang, JEON Seoung-hoon_
 * * *
 
-#### Purpose
-face recognition
+#### Description
+It's a system that automatically opens door through face recognition.  
+When the door is opened, A person who entered is sent a text message via telegram.
 
 #### Environment
 Rasberry Pi 3  
@@ -38,9 +39,11 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  - ### Rasberry Pi 
  1. Basic
  ```
+ coming soon!
  ```
  2. OpenCV
  ```
+ coming soon!
  ```
 
 <a id="SERVER"></a>
