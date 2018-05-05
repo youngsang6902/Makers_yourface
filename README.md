@@ -73,18 +73,22 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  
  3. Dlib
  ```
+ coming soon!
  ```
  
  4. Torch
  ```
+ coming soon!
  ```
  
  5. Openface
  ```
+ coming soon!
  ```
  
  6. Telepot
  ```
+ coming soon!
  ```
  
 <a id="TELEGRAM"></a>
