@@ -19,7 +19,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 - [OS Installation](#INSTALL)
 
 - [Configuration](#CONFIGURATION)
-  - [Rasberry-Pi](#RASP)
+  - [Rasberry Pi](#RASP)
   - [Server PC](#SERVER)
 
 - [Creating a Telegram Bot](#TELEGRAM)
