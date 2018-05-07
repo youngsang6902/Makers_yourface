@@ -144,6 +144,10 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ cd ~
  
  $ git clone https://github.com/cmusatyalab/openface.git --recursive
+ $ cd openface
+ 
+ $ sudo python3 setup.py install
+ $ models/get-models.sh
  
  It's not finished!
  ```
