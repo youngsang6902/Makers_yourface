@@ -72,7 +72,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  $ sudo apt-get -y install libatlas-base-dev gfortran libeigen3-dev
  $ sudo apt-get -y install python3-dev python3-pip python3-numpy
  ```
- 2. OpenCV
+ 3. OpenCV
  - install
  ```
  $ cd ~
@@ -118,7 +118,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  '3.1.0'
  >>> quit()
  ```
- 3. Dlib
+ 4. Dlib
  - install
  ```
  $ cd ~
@@ -133,7 +133,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  '19.10.0'
  >>> quit()
  ```
- 4. Torch
+ 5. Torch
  - install
  ```
  $ cd ~
@@ -154,7 +154,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  ```
 <img width="536" alt="test_torch" src="https://user-images.githubusercontent.com/35857959/39700118-fadce70a-5236-11e8-9d57-fdeba19cd262.PNG">
 
- 5. Openface
+ 6. Openface
  ```
  $ cd ~
  
@@ -165,7 +165,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  $ models/get-models.sh
  ```
  
- 6. Telepot
+ 7. Telepot
  - install
  ```
  $ cd ~
