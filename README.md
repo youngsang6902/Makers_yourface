@@ -125,6 +125,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  >>> quit()
  ```
  4. Torch
+ - install
  ```
  $ cd ~
  
@@ -136,6 +137,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ source ~/.bashrc
  $ for NAME in dpnn nn optim optnet csvigo cutorch cunn fblualib torchx tds; do luarocks install $NAME; done
  ```
+ - test
  
  5. Openface
  ```
