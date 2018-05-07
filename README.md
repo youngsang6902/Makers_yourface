@@ -98,11 +98,13 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
          -D BUILD_NEW_PYTHON_SUPPORT=ON ..
  
  $ time make
- Its' not finished.
+ $ sudo make install
  ```
  
  3. Dlib
  ```
+ $ cd ~
+ 
  coming soon!
  ```
  
