@@ -138,8 +138,9 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ for NAME in dpnn nn optim optnet csvigo cutorch cunn fblualib torchx tds; do luarocks install $NAME; done
  ```
  - test
+ ```
  <img width="470" alt="test_torch" src="https://user-images.githubusercontent.com/35857959/39699821-c527141a-5235-11e8-833d-fefb1bfc575b.PNG">
- 
+```
  5. Openface
  ```
  $ cd ~
