@@ -64,6 +64,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ sudo apt-get -y install python3-dev python3-pip python3-numpy
  ```
  2. OpenCV
+ - [Install]
  ```
  $ cd ~
  
@@ -100,6 +101,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ time make
  $ sudo make install
  ```
+ - [Import Test]
  ```
  $ python3
  >>> import cv2
