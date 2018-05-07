@@ -53,15 +53,15 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ sudo apt-get update
  $ sudo apt-get upgrade
  
- $ sudo apt-get install build-essential cmake
- 
- It's not finished.
+ $ sudo apt-get -y install build-essential cmake git pkg-config
+ $ sudo apt-get -y install libjpeg8-dev libtiff5-dev libjasper-dev libpng12-dev
+ $ sudo apt-get -y install libgtk2.0-dev libgtk-3-dev
+ $ sudo apt-get -y install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+ $ sudo apt-get -y install libatlas-base-dev gfortran
+ $ sudo apt-get -y install libeigen3-dev python3-dev python3-pip python3-numpy
  ```
  2. OpenCV
  ```
- $ mkdir opencv
- $ cd opencv
- 
  $ wget -O opencv.zip https://github.com/opencv/opencv/archive/3.1.0.zip
  $ unzip opencv.zip
  $ wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/3.1.0.zip
