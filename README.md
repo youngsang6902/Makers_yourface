@@ -34,7 +34,9 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 
 - ### Server PC
 1. Making a bootable USB
+> coming soon!
 2. Ubuntu Desktop 16.04 LTS Installation in PC from USB
+> coming soon!
 
 <a id="CONFIGURATION"></a>
 ## Configuration
