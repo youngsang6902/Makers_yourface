@@ -17,7 +17,6 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
   
 #### Contents
 - [OS Installation](#INSTALL)
-
 - [Configuration](#CONFIGURATION)
   - [Rasberry Pi](#RASP)
   - [Server PC](#SERVER)
@@ -34,8 +33,8 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 > coming soon!
 
 - ### Server PC
-1. 부팅 usb 만들기
-2. PC에 우분투 설치하기
+1. Making a bootable USB
+2. Ubuntu Desktop 16.04 LTS Installation in PC from USB
 
 <a id="CONFIGURATION"></a>
 ## Configuration
