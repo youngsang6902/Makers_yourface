@@ -9,11 +9,11 @@ When the door is opened, A person who entered is sent a text message via telegra
 #### Environment
 Rasberry Pi 3  
 OS : Ubuntu Mate 16.04 LTS  
-Requirements : OpenCV 3.1.0, Python 3.5  
+Requirements : OpenCV 3.1.0, Python 3
 
 PC  
 OS : Ubuntu Desktop 16.04 LTS  
-Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
+Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
   
 #### Contents
 - [OS Installation](#INSTALL)
