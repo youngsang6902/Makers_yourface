@@ -105,7 +105,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  ```
  $ cd ~
  
- coming soon!
+ $ sudo pip3 install dlib
  ```
  
  4. Torch
@@ -121,7 +121,8 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  6. Telepot
  ```
  $ cd ~
- $ pip3 install telepot
+ 
+ $ sudo pip3 install telepot
  ```
  
 <a id="TELEGRAM"></a>
