@@ -121,7 +121,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ python3
  >>> import dlib
  >>> dlib.__version__
- '19.10.0''
+ '19.10.0'
  >>> quit()
  ```
  4. Torch
