@@ -120,7 +120,8 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  
  6. Telepot
  ```
- coming soon!
+ $ cd ~
+ $ pip3 install telepot
  ```
  
 <a id="TELEGRAM"></a>
