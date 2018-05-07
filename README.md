@@ -141,7 +141,11 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  
  5. Openface
  ```
- coming soon!
+ $ cd ~
+ 
+ $ git clone https://github.com/cmusatyalab/openface.git --recursive
+ 
+ It's not finished!
  ```
  
  6. Telepot
