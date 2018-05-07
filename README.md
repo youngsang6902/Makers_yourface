@@ -64,6 +64,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  ```
  $ wget -O opencv.zip https://github.com/opencv/opencv/archive/3.1.0.zip
  $ unzip opencv.zip
+ 
  $ wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/3.1.0.zip
  $ unzip opencv_contrib.zip
  
