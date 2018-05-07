@@ -49,11 +49,15 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 
  <a id="RASP"></a>
  - ### Rasberry Pi 
- 1. Basic
+ 1. Upgrade
  ```
  coming soon!
  ```
- 2. OpenCV
+ 2. Package
+ ```
+ coming soon!
+ ```
+ 3. OpenCV
  ```
  coming soon!
  ```
