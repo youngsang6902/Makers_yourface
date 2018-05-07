@@ -129,8 +129,12 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ cd ~
  
  $ git clone https://github.com/torch/distro.git ~/torch --recursive
+ $ cd torch
  
- It's not finished.
+ $ bash install-deps
+ $ ./install.sh
+ $ source ~/.bashrc
+ $ for NAME in dpnn nn optim optnet csvigo cutorch cunn fblualib torchx tds; do luarocks install $NAME; done
  ```
  
  5. Openface
