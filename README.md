@@ -30,7 +30,12 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 
 <a id="INSTALL"></a> 
 ## OS Installation 
+- ### Rasberry Pi
 > coming soon!
+
+- ### Server PC
+1. 부팅 usb 만들기
+2. PC에 우분투 설치하기
 
 <a id="CONFIGURATION"></a>
 ## Configuration
@@ -48,11 +53,14 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
 
 <a id="SERVER"></a>
  - ### Server PC
- 1. Basic
+ 1. Upgrade
  ```
  $ sudo apt-get update
  $ sudo apt-get upgrade
+ ```
  
+ 2. Package
+ ```
  $ sudo apt-get -y install build-essential cmake git pkg-config
  $ sudo apt-get -y install libjpeg8-dev libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
  $ sudo apt-get -y install libgtk2.0-dev libgtk-3-dev
