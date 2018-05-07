@@ -54,11 +54,14 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ sudo apt-get upgrade
  
  $ sudo apt-get -y install build-essential cmake git pkg-config
- $ sudo apt-get -y install libjpeg8-dev libtiff5-dev libjasper-dev libpng12-dev
+ $ sudo apt-get -y install libjpeg8-dev libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
  $ sudo apt-get -y install libgtk2.0-dev libgtk-3-dev
- $ sudo apt-get -y install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
- $ sudo apt-get -y install libatlas-base-dev gfortran
- $ sudo apt-get -y install libeigen3-dev python3-dev python3-pip python3-numpy
+ $ sudo apt-get -y install libavcodec-dev libavformat-dev libswscale-dev libxvidcore-dev libx264-dev libxine2-dev
+ $ sudo apt-get -y install libv4l-dev v4l-utils
+ $ sudo apt-get -y install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
+ $ sudo apt-get -y install libqt4-dev
+ $ sudo apt-get -y install libatlas-base-dev gfortran libeigen3-dev
+ $ sudo apt-get -y install python3-dev python3-pip python3-numpy
  ```
  2. OpenCV
  ```
@@ -74,6 +77,27 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ mkdir build
  $ cd build
  
+ $ cmake -D CMAKE_BUILD_TYPE=RELEASE \
+         -D CMAKE_INSTALL_PREFIX=/usr/local \
+         -D WITH_TBB=OFF \
+         -D WITH_IPP=OFF \
+         -D WITH_1394=OFF \
+         -D BUILD_WITH_DEBUG_INFO=OFF \
+         -D BUILD_DOCS=OFF \
+         -D INSTALL_C_EXAMPLES=ON \
+         -D INSTALL_PYTHON_EXAMPLES=ON \
+         -D BUILD_EXAMPLES=OFF \
+         -D BUILD_TESTS=OFF \
+         -D BUILD_PERF_TESTS=OFF \
+         -D WITH_QT=ON \
+         -D WITH_OPENGL=ON \
+         -D OPENCV_EXTRA_MODULES_PATH=../../opencv_contrib-3.1.0/modules \
+         -D WITH_V4L=ON  \
+         -D WITH_FFMPEG=ON \
+         -D WITH_XINE=ON \
+         -D BUILD_NEW_PYTHON_SUPPORT=ON ..
+ 
+ $ time make
  Its' not finished.
  ```
  
