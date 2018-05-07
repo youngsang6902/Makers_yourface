@@ -64,7 +64,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ sudo apt-get -y install python3-dev python3-pip python3-numpy
  ```
  2. OpenCV
- - [Install]
+ - Install
  ```
  $ cd ~
  
@@ -101,7 +101,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  $ time make
  $ sudo make install
  ```
- - [Import Test]
+ - Import Test
  ```
  $ python3
  >>> import cv2
@@ -110,11 +110,13 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  >>> quit()
  ```
  3. Dlib
+ - Install
  ```
  $ cd ~
  
  $ sudo pip3 install dlib
  ```
+ - Import Test
  ```
  $ python3
  >>> import dlib
@@ -133,11 +135,13 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3.5
  ```
  
  6. Telepot
+ - Install
  ```
  $ cd ~
  
  $ sudo pip3 install telepot
  ```
+ - Import Test
  ```
  $ python3
  >>> import telepot
