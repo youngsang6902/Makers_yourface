@@ -39,6 +39,8 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 > - Download Universal-USB-Installer to make a bootable USB  
 > https://universal-usb-installer.kr.uptodown.com/windows
 > - Formatting a USB 
+<img width="873" alt="usb_format" src="https://user-images.githubusercontent.com/35857959/39754995-1517f2b8-52ff-11e8-84a8-57337ce12344.png">
+
 <div>
 <img width="280" alt="usb_format_1" src="https://user-images.githubusercontent.com/35857959/39753914-6a2027e8-52fb-11e8-8fc7-9068c7ccce4f.png">
 <img width="280" alt="usb_format_2" src="https://user-images.githubusercontent.com/35857959/39753930-78d9634e-52fb-11e8-945e-05777eb6f221.png">
