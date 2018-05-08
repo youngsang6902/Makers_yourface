@@ -21,7 +21,6 @@
 import visitor
 import message
 import path
-
 import time
 start = time.time()
 
@@ -29,7 +28,6 @@ import argparse
 import cv2
 import itertools
 import os
-
 from socket import *
 TCP_IP = '[Server IP]'
 TCP_PORT = [port_number]
