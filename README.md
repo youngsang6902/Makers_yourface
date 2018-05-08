@@ -56,30 +56,30 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  ```
  coming soon!
  ```
- 2. Package
+ #### 2. Package
  ```
  coming soon!
  ```
- 3. OpenCV
+ #### 3. OpenCV
  ```
  coming soon!
  ```
 
 <a id="SERVER"></a>
  - ### Server PC
- 1. Upgrade
+ #### 1. Upgrade
  ```
  $ sudo apt-get update
  $ sudo apt-get upgrade
  ```
- 2. FTP
+ #### 2. FTP
  ```
  $ sudo apt-get install vsftpd
  $ sudo vi ./etc/vsftpd.conf
  
  #write_enable=YES -> write_enables=YES
  ```
- 3. Package
+ #### 3. Package
  ```
  $ sudo apt-get -y install build-essential cmake git pkg-config
  $ sudo apt-get -y install libjpeg8-dev libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
@@ -91,7 +91,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  $ sudo apt-get -y install libatlas-base-dev gfortran libeigen3-dev
  $ sudo apt-get -y install python3-dev python3-pip python3-numpy
  ```
- 4. OpenCV
+ #### 4. OpenCV
  - install
  ```
  $ cd ~
@@ -137,7 +137,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  '3.1.0'
  >>> quit()
  ```
- 5. Dlib
+ #### 5. Dlib
  - install
  ```
  $ cd ~
@@ -152,7 +152,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  '19.10.0'
  >>> quit()
  ```
- 6. Torch
+ #### 6. Torch
  - install
  ```
  $ cd ~
@@ -173,7 +173,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  ```
 <img width="536" alt="test_torch" src="https://user-images.githubusercontent.com/35857959/39700118-fadce70a-5236-11e8-9d57-fdeba19cd262.PNG">
 
- 7. Openface
+ #### 7. Openface
  ```
  $ cd ~
  
@@ -183,7 +183,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  $ sudo python3 setup.py install
  $ models/get-models.sh
  ```
- 8. Telepot
+ #### 8. Telepot
  - install
  ```
  $ cd ~
@@ -205,9 +205,9 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 
 <a id="CODE"></a>
 ## Source Code
-- Raspberry Pi
+#### - Raspberry Pi
 > coming soon!
-- Server
+#### - Server
 > https://github.com/Kimhyunhee94/Makers_yourface/tree/master/server
 
 
