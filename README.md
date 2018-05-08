@@ -40,9 +40,9 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 > https://universal-usb-installer.kr.uptodown.com/windows
 > - Formatting a USB 
 <div>
-<img width="310" alt="usb_format_1" src="https://user-images.githubusercontent.com/35857959/39753914-6a2027e8-52fb-11e8-8fc7-9068c7ccce4f.png">
-<img width="310" alt="usb_format_2" src="https://user-images.githubusercontent.com/35857959/39753930-78d9634e-52fb-11e8-945e-05777eb6f221.png">
-<img width="310" alt="usb_format_3" src="https://user-images.githubusercontent.com/35857959/39753940-83590342-52fb-11e8-9225-79754a2f6166.png">
+<img width="300" alt="usb_format_1" src="https://user-images.githubusercontent.com/35857959/39753914-6a2027e8-52fb-11e8-8fc7-9068c7ccce4f.png">
+<img width="300" alt="usb_format_2" src="https://user-images.githubusercontent.com/35857959/39753930-78d9634e-52fb-11e8-945e-05777eb6f221.png">
+<img width="300" alt="usb_format_3" src="https://user-images.githubusercontent.com/35857959/39753940-83590342-52fb-11e8-9225-79754a2f6166.png">
 </div>
 > It's not finished!
 
