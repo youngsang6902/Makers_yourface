@@ -8,4 +8,3 @@ def move(member):
 	des = member + '/' + now + '.jpg'
 
 	os.rename(src,des) # change the image file name and directory
-
