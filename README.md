@@ -204,8 +204,13 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 > coming soon!
 
 <a id="CODE"></a>
-## Source Code 
+## Source Code
+- Raspberry Pi
 > coming soon!
+- Server
+'''
+https://github.com/Kimhyunhee94/Makers_yourface/tree/master/server
+'''
 
 <a id="EXECUTION"></a>
 ## Execution
