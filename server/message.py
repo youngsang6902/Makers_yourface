@@ -1,6 +1,6 @@
 import telepot
 
-my_token = telepot.Bot('[token]')
+my_token = telepot.Bot('[bot token]')
 send_id = [[member1_room_number],[member2_room_number],[member3_room_number],...,[memberN_room_number]]
 member = ['[member1 name]','[member2 name]','[member3 name]',...,'[memberN name]']
 
