@@ -93,7 +93,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  ```
  4. OpenCV
  - install
- ```
+ ```console
  $ cd ~
  
  $ wget -O opencv.zip https://github.com/opencv/opencv/archive/3.1.0.zip
