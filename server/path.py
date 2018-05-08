@@ -7,5 +7,5 @@ def move(member):
 	src = '[directory name/image file]'
 	des = member + '/' + now + '.jpg'
 
-	os.rename(src,des) # change the filename and directory
+	os.rename(src,des) # change the image file name and directory
 
