@@ -138,6 +138,3 @@ while True:
 	    c.connect((TCP_IP,TCP_PORT))
 	    c.sendall(msg.encode())
 	    c.close()
-
-
-
