@@ -39,9 +39,11 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 > - Download Universal-USB-Installer to make a bootable USB  
 > https://universal-usb-installer.kr.uptodown.com/windows
 > - Formatting a USB 
+<div>
 <img width="349" alt="usb_format_1" src="https://user-images.githubusercontent.com/35857959/39753914-6a2027e8-52fb-11e8-8fc7-9068c7ccce4f.png">
 <img width="329" alt="usb_format_2" src="https://user-images.githubusercontent.com/35857959/39753930-78d9634e-52fb-11e8-945e-05777eb6f221.png">
 <img width="367" alt="usb_format_3" src="https://user-images.githubusercontent.com/35857959/39753940-83590342-52fb-11e8-9225-79754a2f6166.png">
+</div>
 > It's not finished!
 
 2. Ubuntu Desktop 16.04 LTS Installation in PC from USB
