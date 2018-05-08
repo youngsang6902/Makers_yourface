@@ -33,7 +33,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 > coming soon!
 
 - ### Server PC
-1. Making a bootable USB
+#### 1. Making a bootable USB
 > - Download ubuntu-16.04.4  
 > http://mirror.kakao.com/ubuntu-releases/xenial/ubuntu-16.04.4-desktop-amd64.iso
 > - Download Universal-USB-Installer to make a bootable USB  
@@ -44,7 +44,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 > It's not finished!
 > coming soon!
 
-2. Ubuntu Desktop 16.04 LTS Installation in PC from USB
+#### 2. Ubuntu Desktop 16.04 LTS Installation in PC from USB
 > coming soon!
 
 <a id="CONFIGURATION"></a>
@@ -52,7 +52,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 
  <a id="RASP"></a>
  - ### Rasberry Pi 
- 1. Upgrade
+ #### 1. Upgrade
  ```
  coming soon!
  ```
