@@ -209,7 +209,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 > coming soon!
 - Server
 >```console
-> <a href="https://github.com/Kimhyunhee94/Makers_yourface/tree/master/server"/>
+> "https://github.com/Kimhyunhee94/Makers_yourface/tree/master/server"
 >```
 
 <a id="EXECUTION"></a>
