@@ -11,5 +11,3 @@ def check():
 			visit = True
 	
 	return visit
-
-
