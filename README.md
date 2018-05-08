@@ -69,7 +69,6 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  $ sudo apt-get update
  $ sudo apt-get upgrade
  ```
- 
  2. Package
  ```
  $ sudo apt-get -y install build-essential cmake git pkg-config
@@ -175,7 +174,15 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  $ models/get-models.sh
  ```
  
- 7. Telepot
+ 7. FTP
+ ```
+ $ sudo apt-get install vsftpd
+ $ sudo vi ./etc/vsftpd.conf
+ 
+ #write_enable=YES -> write_enables=YES
+ ```
+ 
+ 8. Telepot
  - install
  ```
  $ cd ~
