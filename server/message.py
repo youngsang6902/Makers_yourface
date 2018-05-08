@@ -15,5 +15,3 @@ def send(number):
 	# send a message
 	send_msg = member[n]+'님이 입장하셨습니다.'
 	my_token.sendMessage(send_id[n],send_msg)
-	
-
