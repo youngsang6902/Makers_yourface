@@ -170,7 +170,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  
  $ th
  ```
-<img width="536" alt="test_torch" src="https://user-images.githubusercontent.com/35857959/39700118-fadce70a-5236-11e8-9d57-fdeba19cd262.PNG">
+> <img width="536" alt="test_torch" src="https://user-images.githubusercontent.com/35857959/39700118-fadce70a-5236-11e8-9d57-fdeba19cd262.PNG">
 
  7. Openface
  ```
