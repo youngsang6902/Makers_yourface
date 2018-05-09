@@ -216,10 +216,10 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 
 <a id="EXECUTION"></a>
 ## Execution
-- ### First, run the server.py file
+- ### First, run the server.py file in PC
 >```
 > $ cd ~
 > $ python3 server.py Member/{visitor.jpg,member*}
 >```
-- ### Second
+- ### Second, run the file in Raspberry Pi
 > coming soon!
