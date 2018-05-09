@@ -76,7 +76,7 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  ```
  $ sudo apt-get install vsftpd
  $ sudo apt-get install vim
- $ sudo vi ./etc/vsftpd.conf
+ $ sudo vi /etc/vsftpd.conf
  
  #write_enable=YES -> write_enables=YES
  ```
@@ -214,4 +214,10 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 
 <a id="EXECUTION"></a>
 ## Execution
+- ### First
+```
+> cd ~
+> python3 server/server.py Member/{visitor.jpg,member*}
+```
+- ### Second
 > coming soon!
