@@ -80,6 +80,8 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  
  #write_enable=YES -> write_enables=YES
  ```
+ <img width="552" alt="vsftp" src="https://user-images.githubusercontent.com/35857959/39797961-8549ca76-5399-11e8-91a6-a76610d047a2.PNG">
+
  #### 3. Package
  ```
  $ sudo apt-get -y install build-essential cmake git pkg-config
