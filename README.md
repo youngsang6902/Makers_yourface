@@ -73,12 +73,16 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
  $ sudo apt-get upgrade
  ```
  #### 2. FTP
+ - install
  ```
  $ sudo apt-get install vsftpd
+ ```
+ - change file contents
+ ```
  $ sudo apt-get install vim
- $ sudo vi /etc/vsftpd.conf
  
- #write_enable=YES -> write_enables=YES
+ $ sudo vi /etc/vsftpd.conf
+  #write_enable=YES -> write_enables=YES
  ```
  #### 3. Package
  ```
