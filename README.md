@@ -215,9 +215,9 @@ Requirements : OpenCV 3.1.0, Openface API, Dlib, Torch, Telegram, Python 3
 <a id="EXECUTION"></a>
 ## Execution
 - ### First
-```
+>```
 > cd ~
 > python3 server/server.py Member/{visitor.jpg,member*}
-```
+>```
 - ### Second
 > coming soon!
